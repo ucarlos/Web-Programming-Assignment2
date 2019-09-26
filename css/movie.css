@@ -1,0 +1,119 @@
+/* CSS for tmmt.html and other associated files */
+
+* {
+    font-family:verdana;
+    
+
+}
+body{
+    background-image: url("../images/background.png");
+
+}
+
+div.image{
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+		    
+}
+
+div.full_movie{
+    margin-left:auto;
+    margin-right:auto;
+
+    width:800px;
+    border-style:solid;
+    border-color:grey;
+    border-width:4px;
+    column-count:2;
+}
+
+.review_container{
+    width:550px;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+    float:left;
+
+}
+
+.film_info{
+    float:right;
+    background-color: #A2B964;    
+    width:250px;
+
+}
+
+.banner{
+    background-image:url("../images/rottenbackground.png");
+    width:550px;
+    vertical-align:text-bottom;
+
+}
+
+.banner_image{
+    background-image:url("../images/rottenbig.png");
+    height:83px;
+    width:98px;
+    color:red;
+    font-size: 48pt;
+
+}
+.banner_text{
+    font-size:48px;
+    color:red;
+    height:83px;
+
+}
+
+#review1{
+    width:225px;
+    margin-left:auto;
+    margin-right:auto;
+    float:left;
+
+}
+
+
+#review2{
+    width:225px;
+    margin-left:auto;
+    margin-right:auto;
+    float:right;
+}
+
+
+/* Now the Quote Stuff: */
+
+.quote_box{
+    background-color: #e1d697;
+    border-style:solid;
+    border-color:grey;
+    border-width:4px;
+    font-size:8px;
+    word-wrap: break-word;
+    font-weight:bold;
+    margin:5px;
+    
+}
+
+.critic_box{
+    margin: 5px;
+    font-size:12px;
+    font-family:Times;
+    height: 33px;
+
+}
+
+img.critic_icon{
+    float:left;
+
+}
+
+
+.film_info_box{
+    background-color: #A2B964;
+    font-family:Arial;
+    font-size:8px;
+    font-weight:bold;
+}
