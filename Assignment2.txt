@@ -1,0 +1,6 @@
+A Link to the website on the Codd server is as follows:
+http://codd.cs.gsu.edu/~ucarlos1/Assignment2/tmnt.html
+
+
+A link to the github can be found here:
+https://github.com/ucarlos/Web-Programming-Assignment2

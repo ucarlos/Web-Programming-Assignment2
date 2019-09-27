@@ -47,7 +47,6 @@ div.full_movie{
 .banner{
     background-image:url("../images/rottenbackground.png");
     width:550px;
-    vertical-align:text-bottom;
 
 }
 
@@ -57,19 +56,30 @@ div.full_movie{
     width:98px;
     color:red;
     font-size: 48pt;
+    float:left;
 
 }
 .banner_text{
     font-size:48px;
+    background-image:url("../images/rottenbackground.png");
     color:red;
     height:83px;
-
+    font-weight: bold;
+    float:left;
 }
 
+.banner_othertext{
+    background-image:url("../images/rottenbackground.png");
+    color: white;
+    float: left;
+
+
+}
 #review1{
     width:225px;
     margin-left:auto;
     margin-right:auto;
+    margin:2%;
     float:left;
 
 }
@@ -79,6 +89,7 @@ div.full_movie{
     width:225px;
     margin-left:auto;
     margin-right:auto;
+    margin: 2%;
     float:right;
 }
 
@@ -99,7 +110,7 @@ div.full_movie{
 
 .critic_box{
     margin: 5px;
-    font-size:12px;
+    font-size:11px;
     font-family:Times;
     height: 33px;
 
